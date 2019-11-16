@@ -1,0 +1,2237 @@
+fileFormatVersion: 2
+guid: 2a9194930752b1245b8d81ef109ca95c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: exp_bar_enlarged_0
+    21300002: exp_bar_enlarged_1
+    21300004: exp_bar_enlarged_2
+    21300006: exp_bar_enlarged_3
+    21300008: exp_bar_enlarged_4
+    21300010: exp_bar_enlarged_5
+    21300012: exp_bar_enlarged_6
+    21300014: exp_bar_enlarged_7
+    21300016: exp_bar_enlarged_8
+    21300018: exp_bar_enlarged_9
+    21300020: exp_bar_enlarged_10
+    21300022: exp_bar_enlarged_11
+    21300024: exp_bar_enlarged_12
+    21300026: exp_bar_enlarged_13
+    21300028: exp_bar_enlarged_14
+    21300030: exp_bar_enlarged_15
+    21300032: exp_bar_enlarged_16
+    21300034: exp_bar_enlarged_17
+    21300036: exp_bar_enlarged_18
+    21300038: exp_bar_enlarged_19
+    21300040: exp_bar_enlarged_20
+    21300042: exp_bar_enlarged_21
+    21300044: exp_bar_enlarged_22
+    21300046: exp_bar_enlarged_23
+    21300048: exp_bar_enlarged_24
+    21300050: exp_bar_enlarged_25
+    21300052: exp_bar_enlarged_26
+    21300054: exp_bar_enlarged_27
+    21300056: exp_bar_enlarged_28
+    21300058: exp_bar_enlarged_29
+    21300060: exp_bar_enlarged_30
+    21300062: exp_bar_enlarged_31
+    21300064: exp_bar_enlarged_32
+    21300066: exp_bar_enlarged_33
+    21300068: exp_bar_enlarged_34
+    21300070: exp_bar_enlarged_35
+    21300072: exp_bar_enlarged_36
+    21300074: exp_bar_enlarged_37
+    21300076: exp_bar_enlarged_38
+    21300078: exp_bar_enlarged_39
+    21300080: exp_bar_enlarged_40
+    21300082: exp_bar_enlarged_41
+    21300084: exp_bar_enlarged_42
+    21300086: exp_bar_enlarged_43
+    21300088: exp_bar_enlarged_44
+    21300090: exp_bar_enlarged_45
+    21300092: exp_bar_enlarged_46
+    21300094: exp_bar_enlarged_47
+    21300096: exp_bar_enlarged_48
+    21300098: exp_bar_enlarged_49
+    21300100: exp_bar_enlarged_50
+    21300102: exp_bar_enlarged_51
+    21300104: exp_bar_enlarged_52
+    21300106: exp_bar_enlarged_53
+    21300108: exp_bar_enlarged_54
+    21300110: exp_bar_enlarged_55
+    21300112: exp_bar_enlarged_56
+    21300114: exp_bar_enlarged_57
+    21300116: exp_bar_enlarged_58
+    21300118: exp_bar_enlarged_59
+    21300120: exp_bar_enlarged_60
+    21300122: exp_bar_enlarged_61
+    21300124: exp_bar_enlarged_62
+    21300126: exp_bar_enlarged_63
+    21300128: exp_bar_enlarged_64
+    21300130: exp_bar_enlarged_65
+    21300132: exp_bar_enlarged_66
+    21300134: exp_bar_enlarged_67
+    21300136: exp_bar_enlarged_68
+    21300138: exp_bar_enlarged_69
+    21300140: exp_bar_enlarged_70
+    21300142: exp_bar_enlarged_71
+    21300144: exp_bar_enlarged_72
+    21300146: exp_bar_enlarged_73
+    21300148: exp_bar_enlarged_74
+    21300150: exp_bar_enlarged_75
+    21300152: exp_bar_enlarged_76
+    21300154: exp_bar_enlarged_77
+    21300156: exp_bar_enlarged_78
+    21300158: exp_bar_enlarged_79
+    21300160: exp_bar_enlarged_80
+    21300162: exp_bar_enlarged_81
+    21300164: exp_bar_enlarged_82
+    21300166: exp_bar_enlarged_83
+    21300168: exp_bar_enlarged_84
+    21300170: exp_bar_enlarged_85
+    21300172: exp_bar_enlarged_86
+    21300174: exp_bar_enlarged_87
+    21300176: exp_bar_enlarged_88
+    21300178: exp_bar_enlarged_89
+    21300180: exp_bar_enlarged_90
+    21300182: exp_bar_enlarged_91
+    21300184: exp_bar_enlarged_92
+    21300186: exp_bar_enlarged_93
+    21300188: exp_bar_enlarged_94
+    21300190: exp_bar_enlarged_95
+    21300192: exp_bar_enlarged_96
+    21300194: exp_bar_enlarged_97
+    21300196: exp_bar_enlarged_98
+    21300198: exp_bar_enlarged_99
+    21300200: exp_bar_enlarged_100
+    21300202: exp_bar_enlarged_101
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exp_bar_enlarged_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024a1ce0e71e16944b3080472dfef3ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_1
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 8000
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664bad2f1a781d943bdb8dbc703c88f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7840
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dfb23b17d7c8c49a6b5e93644f8f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 7840
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a861480a11ff1c45994a0b577c7bb04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8503b0edf378d9418e8b2331b57a748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 7680
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bb817e14eb876458ae4c65f7db2f06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7520
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed6116a93a6aa845a52f9be42321c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_7
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 7520
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2087d12626534c147b19a405d3187b74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7360
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28a3ee66ac66cc4aab27243490deaec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_9
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 7360
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8f16bff0f0a084582670dfdce3792d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155c1e7687489d843be7d5f24ee7fdc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 7200
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da3912add291794b9e3ac4173d625f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7040
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69eed739b94119429396bc20a75b361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_13
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 7040
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee94144186639bf48aca6141ef8d99b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6880
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e23739c577afd848b650ceeb21d6d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_15
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 6880
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e724051a35492f40ad47a3b90d556bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6720
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e4173fb2f81846a2dd2112a8de390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 6720
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d83096223b1384ca7398d0ce73eafb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6560
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a9e86177bb6a418c21836a923f490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_19
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 6560
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a38b0b139e8a62479b848a2df2e5f83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f0185037c48174987b3976bf405531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 6400
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f070909bd5905439de45a8998a610c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6240
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fdc63aa092bcb42a5860adb0ee0e69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_23
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 6240
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5f48445d88e13478979899aa434219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6080
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da145eb111c250488f1f18ce7bc0a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_25
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 6080
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2b94bddbf6c9e46973e2dd519b8728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5920
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2b3f8fb641a6e4fa7fa7aba507be5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_27
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 5920
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc877534956ec444a894283f61b5cde0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c947695992add8c429b8fe15170af43a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_29
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 5760
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f292c46fe2fce4faccd0bec987e5c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca3e4954ef55904cadb8b1c75b369a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_31
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 5600
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5368279d5c8b94c468b1441aadb36e8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5440
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e511a9538ea602348a9a3e0bcdc1fbb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_33
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 5440
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d6dac96fff8e346a3eeb7d877a471f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5280
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c25c3d226da857428121681eba026c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_35
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 5280
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb5dfe33ed8a3a43971a4c86a04f197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ce74314f022424a80483713e919a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_37
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 5120
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de89d3ed54b520c4895e353f3a96a4bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4960
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747268d56835e934b86daf9c91954ceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_39
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 4960
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe4b45c1484fe943b0d3b5a8c695e02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d01ba89163a589449b1dc5f066e4918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_41
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 4800
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29814a5b063176d4da30db1e329d527d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4640
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8272781ac3aa158448e367087e803660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_43
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 4640
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c654d5347e7eb4e817091bda34f997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4480
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d948a224da887646aea515dae72606c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_45
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 4480
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10dbfcf4a82fbd4fab6570fd07881a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401fec239f6543f4d8c1c7f0fbab7fb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_47
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 4320
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb40aeac5015704eb576b9b7325d48c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4160
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd8713c7646dac42be6ec4518a463a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_49
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 4160
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fdc21b6447381478066083b8d9a543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8628c0b1f75b41b48af415649513ca21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_51
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 4000
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e9436036e20145a1e9015d45092e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1173c20e08173684399abdf634d67427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_53
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3840
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f9132c795ef042b7fb222a6466335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3680
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08853bacc59444b4196fb79f1bd25e57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_55
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3680
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9bab9591102114fa9a7287699f706b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251e43e73d3124d4ca1ec1ca96861953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_57
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3520
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504fa2366e1f852499eb54c84aa940b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907a21284c9937f49aa515e9ac7d94b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_59
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3360
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaada1de24023349affbc680e6bfb96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72cdc0a8d141b647853744f0bd6e5d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_61
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3200
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa06af200886f349b408814f7c01d3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3040
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444eb26099656ac49a3425e891f5f122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_63
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3040
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c69e2351bed8b42a9c72b22c1efe2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad89357b6af220f4b994501e31d4f816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_65
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2880
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa47007bb23b7ce48a44cc952d9a788a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c9c56c6801e8f47a013fea8d37757c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_67
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2720
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493e2f1ffc899994399d5432519d2c90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc886283940bdc74eb7dbfe2c24c0677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_69
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2560
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adff288607829f0469e56724b414de8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ee11f315e51b43a1cb67aaa5d1d51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_71
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2400
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cee8ab6d6dcb84092d7c0fd7c2b654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace1721fbcb321948b684178a7741498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_73
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2240
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451649459114a8c44ac9223fa86cf1cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2080
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4dd6483a323164d84010964d21c4de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_75
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2080
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a416dee1509f3ac40be755b507cba78a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a360ab05d29f2f640a3bf4e0d6351479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_77
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1920
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f80c3022431a8419562b12a2cfecf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6a87fec28e2974f9ad42361b9e2289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_79
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1760
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7662ce82ee97c4d894344e6a8ae672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a73607781ee9e4ba171d0cf7bb46db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_81
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1600
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e5a2c6a3e63c94cbb570c165d9e7ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b2c11b40a5dc4c8dac3256262c673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_83
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1440
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76faa0a04e6480c40974f2ab07be2519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b38dfee0c7d37a408b79804587a9a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_85
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1280
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e7fbf1a454f6542ae85c72b53fa8ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af239902dbca63549b01c97088ca2d79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_87
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1120
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b372b7fea314940b3d36dba26964df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c390d134326fad49b7fac5c89efb8d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_89
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 960
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e246d7f3e3be2fb4f8f23ab77223a805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decd8309138021a4e9a87f229c2f0bc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_91
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 800
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee805e253d7610444a9ac87750a5c969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a3350e1c4e2df4e9545e18dfe2ac47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_93
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 640
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba88365aee5284c8ef001f95fd37ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac64e10bd467a64088d82bf0f150b7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_95
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 480
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a7b766048a59c43a3995fe5a0aa906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591dfa2eaa00c4439b6668e79055354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_97
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 320
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb7e28ccd396a84fa178e6c9937467f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cffc4757e931b04b91017569ce44920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_99
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 160
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69aa2c595e5d648bc1eca86fc51a32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e46bb45d1bc8b4baab76ffd228156c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exp_bar_enlarged_101
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 1020
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5003d8b78f5cad040a0bc4d6c9d15975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2fbb4f1d3b09b7447be042470745f5ea
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
