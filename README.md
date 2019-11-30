@@ -31,11 +31,9 @@ Action | Key
 HP 아이템 사용 | X
 MP 아이템 사용 | C
 NPC와 대화 or 상점 이용 | Q
- | 
 마력 구체 스킬 | Ctrl
 번개 스킬 | Shift
 방패 스킬(방어력 상승) | A
- | 
 확인 | Enter
 일시 정지 | Esc
 레벨업(치트키) | F9
